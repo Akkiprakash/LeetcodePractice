@@ -25,7 +25,6 @@ public class DisapperinArray {
         int[] nums = {4,3,2,7,8,2,3,1};
         List<Integer> result = sol.findDisappearedNumbers(nums);
         System.out.println("Disappeared Numbers: " + result);
-        
     }
 
 }
