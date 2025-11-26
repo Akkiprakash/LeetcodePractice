@@ -3,7 +3,7 @@ package HashMaps;
 import java.util.*;
 
 class candies{
-    public int distributeCandies(int[] candyType) {
+    public int distributeCandies(int[] candyType){
         int length = candyType.length;
         Set<Integer> set = new HashSet<>();
         for(int c : candyType){
