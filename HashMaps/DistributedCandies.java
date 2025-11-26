@@ -16,6 +16,7 @@ class candies{
 public class DistributedCandies {
     public static void main(String[] args) {
         candies obj = new candies();
+        
         int[] candyType = {1,1,2,2,3,3};
         System.out.println(obj.distributeCandies(candyType));
     }
