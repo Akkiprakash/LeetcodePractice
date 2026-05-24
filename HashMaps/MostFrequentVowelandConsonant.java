@@ -1,5 +1,7 @@
 package HashMaps;
 
+import java.util.HashMap;
+import java.util.Map;
 class solutuion{
      public int maxFreqSum(String s) {
         Map<Character, Integer> map = new HashMap<>();

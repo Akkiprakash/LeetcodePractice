@@ -1,5 +1,6 @@
 package Strings;
 
+import java.util.Arrays;
 class prefix{
      public String longestCommonPrefix(String[] strs) {
         // base condition.....

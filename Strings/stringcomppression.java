@@ -1,6 +1,6 @@
 package Strings;
 
-public class Innerstringcomppression {
+ class Innerstringcomppression {
 public int compress(char[] chars) {
         //using the two pointers approach
         if(chars.length == 1) return 1;
