@@ -1,4 +1,4 @@
-package PrefixAndsuffix.152. Maximum Product Subarray;
+package Mysql.152. Maximum Product Subarray;
 
 class Solution {
     public int maxProduct(int[] nums) {
