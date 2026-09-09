@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Brute",
+            "request": "launch",
+            "mainClass": "Brute",
+            "projectName": "leetcodeproblems_b6f36043"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",

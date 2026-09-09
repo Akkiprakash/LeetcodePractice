@@ -36,5 +36,6 @@ public class App {
         int h = 2;
         int result = solution.firstStableIndex(nums, h);
         System.out.println("The first stable index is: " + result);
+        
     }
 }
