@@ -3,8 +3,9 @@
     "java.debug.settings.onBuildFailureProceed": true,
     "java.format.settings.url": ".vscode/java-formatter.xml",
     "java.project.sourcePaths": [
+        "MathsProblems/3870. Count Commas in Range",
         "Arrrays/670. Maximum Swap",
         "Arrrays/3903. Smallest Stable Index I",
-        "MathsProblems/3870. Count Commas in Range"
+        "PrefixAndsuffix/3903. Smallest Stable Index I"
     ]
 }
