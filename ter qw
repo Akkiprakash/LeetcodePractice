@@ -1,0 +1,329 @@
+[33mcommit e52346bd28f1737b14ed50426c2f35b4e82c711d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Sep 24 14:18:56 2026 +0530
+
+    solved using brute Force which give nlogn
+
+[33mcommit 5266cf6e556a209057aa95fe3adab730fde3b8e3[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Sep 23 17:56:46 2026 +0530
+
+    potd day -23/9/26
+
+[33mcommit d7a2fc6390cbb1fd3e0884f4f1ef924ea0012ba7[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Tue Sep 22 19:57:07 2026 +0530
+
+    solved array problem
+
+[33mcommit 17c3140addd8831181a0b3c4f781ff368fe43df5[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Sep 17 12:32:10 2026 +0530
+
+    solved Array Problems
+
+[33mcommit 4c65718d9ddaf2d4777f644a7e4a4a76e195690e[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Sep 10 15:16:08 2026 +0530
+
+    added the problem using the prefix and the suffix
+
+[33mcommit f79f3e056229bd6536f67a71097987ab690e65e5[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Sep 10 15:11:49 2026 +0530
+
+    added the math problem
+
+[33mcommit fa53db7018d95a9f9ae4d4b1d79a3b8da81f8a4d[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Sep 9 16:11:07 2026 +0530
+
+    added the brute force
+
+[33mcommit b31659e7897d05092589df9ecce90fd9bbea28d7[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Sep 9 11:19:42 2026 +0530
+
+    added two sum || problem
+
+[33mcommit 3ff243012700d1f032c189acbde6cce60b37a1a2[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Sep 9 11:06:01 2026 +0530
+
+    added the problem of with brute and better
+
+[33mcommit fadfc8774794c56baadce95a9d670f5fc9011e60[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Tue Sep 8 15:31:43 2026 +0530
+
+    added problem
+
+[33mcommit d0fba9b96a4f1c216ea21855306c0029640deeb4[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Mon Sep 7 15:32:59 2026 +0530
+
+    sloved using the brute force with sliding window!
+
+[33mcommit b4753e281798aebe7e74c42ab91784bb512914e0[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sun Sep 6 11:46:27 2026 +0530
+
+    maximum product using max1 and max2
+
+[33mcommit be974d89cc703ef0b1e4db50be72565b4b84cc9c[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Aug 12 21:50:24 2026 +0530
+
+    added problem
+
+[33mcommit b0c75518cc6dc333ab66ff7efe8067ba15543859[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Tue Aug 11 18:39:35 2026 +0530
+
+    recursion practice
+
+[33mcommit bab5b40c1a023ab2f7c752517e1e856363a0ccd8[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Mon May 25 00:13:37 2026 +0530
+
+    solved
+
+[33mcommit fc79f9c5c539112f5b4a339be63338900fe8631b[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sun May 24 23:51:55 2026 +0530
+
+    solved
+
+[33mcommit c90761577c9b03eb662d145da3c8b7c26b3f4eb8[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Mar 4 18:17:09 2026 +0530
+
+    StringZerosAdded
+
+[33mcommit 81b12202f89b3bd2c8266c33309349b38d41329d[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Feb 4 21:24:32 2026 +0530
+
+    StringToBinary
+
+[33mcommit ed1a012c0648e7f0d67f91af17725c919e6c1f2e[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Feb 4 20:43:36 2026 +0530
+
+    program
+
+[33mcommit 952151bc668393597b1be74ab6471a07512d476e[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Feb 4 20:20:04 2026 +0530
+
+    practice
+
+[33mcommit 770b5c685402a0f1b2f3aabae406375ae6873a58[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Feb 4 20:19:30 2026 +0530
+
+    Prime
+
+[33mcommit 3c47058c43d6c514d40c43f013985aa2a3dfe843[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Mon Jan 19 18:09:55 2026 +0530
+
+    method1
+
+[33mcommit a6756aa967882461483d960cfb5251b8fe9425ae[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Dec 31 13:52:31 2025 +0530
+
+    mismatch
+
+[33mcommit 341dc99c130da7fbcb2bc239de4606d63acf5dd5[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Tue Dec 30 23:43:49 2025 +0530
+
+    sprialmaatrix
+
+[33mcommit 90fba52c9f3882b19e8ad74ba4bbbcedfe31277b[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Tue Dec 30 23:41:41 2025 +0530
+
+    validPalidrome
+
+[33mcommit 01fc3132e60c033aa96217b18bc0422ce32959fe[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sun Dec 28 14:38:36 2025 +0530
+
+    stringcomp
+
+[33mcommit 2dca85dc4524072e64002f65dcdd8c7122ddb4df[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sun Dec 28 14:38:04 2025 +0530
+
+    besttime2buy
+
+[33mcommit 538ede17f5fcf47bdb368f8a83476d87ad67aeb0[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Dec 25 12:59:05 2025 +0530
+
+    SingleNumber
+
+[33mcommit 6c18e855cbd37c3c655d86960802e05b13f89b90[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Dec 25 12:58:18 2025 +0530
+
+    practice
+
+[33mcommit d6f4e83d4ab6f740d338e718473e90dc3b720387[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Mon Dec 22 23:03:50 2025 +0530
+
+    practice
+
+[33mcommit 1f7142fae0080522ecf0bf7acacb4348e405102f[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Mon Dec 22 22:52:29 2025 +0530
+
+    practice
+
+[33mcommit 295b6bfb31231bb46aa89b8177e301ef859ad595[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Dec 4 22:34:56 2025 +0530
+
+    practice
+
+[33mcommit 4ef1c5b53f08948a27e7d29916b0f1e7b9cfc527[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Dec 4 22:34:33 2025 +0530
+
+    leetcode
+
+[33mcommit d52a6848dbde559b594708eae0baa7a26fdf0891[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Dec 3 18:32:38 2025 +0530
+
+    conversion
+
+[33mcommit b099d076fa958a3428b4874eb4a9bf9c562051c0[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Dec 3 18:30:00 2025 +0530
+
+    tappingrain
+
+[33mcommit c67cf02940b77348f68dc5e061d9ec1ae41d3e4e[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Dec 3 18:28:19 2025 +0530
+
+    practice2
+
+[33mcommit 4aaf8972c18ccc7a47f9c4ea3ae3a803d5210800[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Tue Dec 2 00:30:38 2025 +0530
+
+    3sum
+
+[33mcommit bd79f3a0cf2bf0c1978155ce9462314691f5a050[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sun Nov 30 16:15:32 2025 +0530
+
+    leetcode Practice
+
+[33mcommit 0365b2d18f5d4a4d7ead50a9ba3b18549a86c1f8[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Nov 27 00:09:27 2025 +0530
+
+    coinsproblem
+
+[33mcommit f47ab9d0d0e44154682fdc67d0e924b48ac365ac[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Nov 27 00:08:29 2025 +0530
+
+    newcommit
+
+[33mcommit bcb8352357bf9909999e70cebde156d06a415273[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Nov 26 23:37:07 2025 +0530
+
+    theworld
+
+[33mcommit 1480ac43f97b29a1451e18a3324b94b6fd0f80e0[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sun Nov 23 00:17:59 2025 +0530
+
+    alldeleted
+
+[33mcommit 26f7ee6d8b724fb09158351df06da37176781ce4[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sat Nov 22 23:48:19 2025 +0530
+
+    candies
+
+[33mcommit fb480eac7122f8eac189b4e3ad40bef39ec1503f[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Thu Nov 20 23:42:16 2025 +0530
+
+    Twosum
+
+[33mcommit 82ae9aa529f7d9c234ddd5f1d5290d83e96f26b4[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Wed Nov 19 00:13:24 2025 +0530
+
+    TwoSum
+
+[33mcommit 5a7ab6f2bc3142e80ea486752aa3fb3ba2dbb2c9[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Tue Nov 18 23:31:53 2025 +0530
+
+    isPalidrome
+
+[33mcommit e3970626ebf2fd42ad1a66fb0acfecc69c4dd9ef[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Tue Nov 18 01:00:26 2025 +0530
+
+    practice
+
+[33mcommit f36bd7108f0cc8ab9b90fab2c99c41381a818dbc[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Tue Nov 18 00:58:45 2025 +0530
+
+    Quest level 2
+
+[33mcommit 349d538ee3aebb886405a37ec62ccef16e6ffa2c[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Tue Nov 18 00:16:18 2025 +0530
+
+    Quest level 2
+
+[33mcommit 8b6031e80eefaf225ceb7acf78b49cf470e21d82[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sun Nov 16 23:53:16 2025 +0530
+
+    challange 3
+
+[33mcommit 7f55f82c9782515d49ccf6bb9afcaca0f56b2b0e[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sun Nov 16 23:46:30 2025 +0530
+
+    challange 2
+
+[33mcommit 2b83f77267a87727993515cb3530f3da1b0f1628[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sun Nov 16 23:40:57 2025 +0530
+
+    arrays challenge
+
+[33mcommit e728d64ccd5ada3b09b7198f723e3057db5259c7[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sat Nov 15 22:18:24 2025 +0530
+
+    Two sum using the arrays
+
+[33mcommit 81b87e07e30e473ae71607ee4fb70101ff1e6462[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sat Nov 15 21:53:13 2025 +0530
+
+    Type : easy
+
+[33mcommit 96f413c75800ef7dd81f13fefe5ce93916fca64f[m
+Author: Akkiprakash <akkiprakash741@gmail.com>
+Date:   Sat Nov 15 21:13:58 2025 +0530
+
+    added problem : Inesertion of Two Arrays
