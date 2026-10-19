@@ -1,3 +1,8 @@
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
 class Solution {
     public int sumCounts(List<Integer> nums) {
         int sum =0;
@@ -20,4 +25,4 @@ public class Main{
         int ans = sol.sumCounts(nums);
         System.out.println(ans);
     }
-}
+}       
